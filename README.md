@@ -1,5 +1,4 @@
-A)install following dependencies
-dependencies:
+A)install following dependencies using ("npm install")
 
 1)"body-parser"
 
