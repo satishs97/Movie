@@ -60,5 +60,3 @@ Thank you,
 
 NAME:SATISH SANGAM.
 CONTACT:+917875478777
-(InternShala)
-
